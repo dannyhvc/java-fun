@@ -1,81 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1cbf05d5-4e4d-4492-8c34-418497bb8bcb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Stuff.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FileManager/fileCreation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MY_CODE/LILI_Lottery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MY_CODE/lab03_q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Project1/CommissionEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Project1/D_H_TestPayment1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Project1/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Project1/HourlyEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Project1/Invoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Project1/Payable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Project1/SalPlusCommEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Project1/SalariedEmployee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java-Stuff.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MIDTERM/Aeroplane.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MIDTERM/Automobile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MIDTERM/Transport.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MIDTERM/VehicleTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Polymorphism/BankExample/BankAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Polymorphism/BankExample/CheckingAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Polymorphism/BankExample/SavingsAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Polymorphism/BankExample/TestAccounts.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project1/CommissionEmployee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project1/D_H_TestPayment1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project1/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project1/HourlyEmployee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project1/Invoice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project1/Payable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project1/SalPlusCommEmployee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project1/SalariedEmployee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dans_Work/JeliotTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dans_Work/Lili_Lottery.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dans_Work/YUH.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dans_Work/lab03_q2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance/Animals/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance/Animals/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance/Animals/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance/Animals2/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance/Animals2/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance/Animals2/TestAnimals.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance/Excersizes/InClassCoding_1/Circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance/Excersizes/InClassCoding_1/CircleTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance/Excersizes/ObjectsOne/Circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance/Excersizes/ObjectsOne/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance/Excersizes/ObjectsOne/Rectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance/Excersizes/ObjectsOne/TestCircle1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance/Excersizes/ObjectsOne/TestDog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance/Excersizes/ObjectsOne/TestRectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance/Excersizes/people/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance/Excersizes/people/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance/Excersizes/people/Teacher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance/Excersizes/people/TestPerson.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance/Excersizes/practiceAssignment_1a/Flight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance/Excersizes/practiceAssignment_1a/testFlight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance/Excersizes/practiceAssignment_1b/BankAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance/Excersizes/practiceAssignment_1b/testBankAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance/Excersizes/practice_inclassCoding1/Rectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance/Excersizes/practice_inclassCoding1/RectangleTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance/Persons/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance/Persons/Staff.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance/Persons/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance/Persons/TestPeople.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance/Students/Students.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance/Students/TestStudent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/interfaces/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/interfaces/Human.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/interfaces/Mammal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/interfaces/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/interfaces/Read.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/interfaces/TestAnimal.java" beforeDir="false" />
-    </list>
+    <list default="true" id="1cbf05d5-4e4d-4492-8c34-418497bb8bcb" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,6 +13,7 @@
     <session id="-663100760">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -94,12 +21,13 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="33" />
+          <entry key="JAVA" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="22" />
+          <entry key="PLAIN_TEXT" value="12" />
         </counts>
       </usages-collector>
     </session>
@@ -174,7 +102,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550811074783" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550811795363" />
     <property name="create.test.in.the.same.root" value="true" />
   </component>
   <component name="RecentsManager">
@@ -232,6 +160,14 @@
       <option name="presentableId" value="Default" />
       <updated>1550808942331</updated>
     </task>
+    <task id="LOCAL-00001" summary=":d">
+      <created>1550811165661</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1550811165661</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -247,7 +183,7 @@
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="2" weight="0.3292683" />
-      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="3" weight="0.3292683" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.3292683" />
       <window_info anchor="bottom" id="Run" order="6" weight="0.3292683" />
@@ -267,6 +203,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=":d" />
+    <option name="LAST_COMMIT_MESSAGE" value=":d" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/YUH.java">
@@ -372,13 +312,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Project1/CommissionEmployee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Project1/HourlyEmployee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
@@ -425,6 +358,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project1/CommissionEmployee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
     </entry>
