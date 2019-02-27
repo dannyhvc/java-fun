@@ -74,4 +74,6 @@ public class Invoice implements Payable
     return quantity * unitPrice;
   }
 
+  //Payable generatePaymentAmount = () -> {return quantity * unitPrice;};
+
 }//end Main class

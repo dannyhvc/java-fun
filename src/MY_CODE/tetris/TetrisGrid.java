@@ -43,7 +43,7 @@ public class TetrisGrid extends BlockGrid
     g2.drawString("Points: " + points, 5, 12+5);
     if(isFilled())
     {
-      g2.drawString("You Lose", getGraphicsWidth()/2-20, getGraphicsHeight()/2-6);
+      g2.drawString("You Lose Faggot.", getGraphicsWidth()/2-20, getGraphicsHeight()/2-6);
     }
   }
 

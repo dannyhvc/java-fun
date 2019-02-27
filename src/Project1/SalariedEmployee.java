@@ -48,11 +48,7 @@ public class SalariedEmployee extends Employee
    * Accepts    :
    * Returns    :
    */ //***TODO TAYLOR
-  @Override
-  public double generatePaymentAmount()
-  {
-    return 0;
-  }
+  Payable generatePaymentAmount = () -> {return 0;};
 
   /**
    * Method Name: toString()
