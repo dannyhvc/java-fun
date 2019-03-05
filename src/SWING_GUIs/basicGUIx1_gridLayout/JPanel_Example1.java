@@ -4,7 +4,7 @@
  * Coder: Daniel Herrera (0881570) for Section 03
  * Date: 2/27/2019 | Time: 11:12 AM
  */
-package SWING_GUIs.basicGUIx1_gridLayou;
+package SWING_GUIs.basicGUIx1_gridLayout;
 
 import javax.swing.*;//contains all gui object
 import java.awt.*;//contains all layout managers

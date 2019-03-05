@@ -9,14 +9,23 @@ package MY_CODE.sudoku;
 import javax.swing.*;
 import java.awt.*;
 
-public class gridLayout extends JFrame
+class gridLayout extends JFrame
 {
   gridLayout()
   {
-    //1) title in super from JFrame class
-    super("Sudoku");
+    JFrame frame = new JFrame("Sudoku");
 
-    //2) Boilerplate
+    //boilerplate code: set up the jFrame with basic configs.
+    frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);//close the program when the x is hit
+    frame.setSize(500, 500);
+    frame.setLocationRelativeTo(null);//opens window in the middle of the screen
+    //hgap =  horizontal gap between grids //vgap =  vertical gap between grids.
+    frame.setLayout(new GridLayout(3,3,10,10)); //hgap =  horizontal gap between grids
+    frame.setVisible(true);
+
+    JPanel[] panel = new JPanel[9];
+    JButton[] buttons = new JButton[27];
 
   }//end constructor
+
 }//end Main class

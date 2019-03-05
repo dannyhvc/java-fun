@@ -115,7 +115,7 @@ public class LILI_Lottery
   {
     Scanner scanner = new Scanner(System.in);
 
-    System.out.println("LOTTO NUMBER (1 - 30)");
+    System.out.println("LOTTO NUMBER (1 - 25)");
     int tryer = scanner.nextInt();
     int winLotto = lottoWinner();
 
@@ -143,7 +143,7 @@ public class LILI_Lottery
   {
     Random rand = new Random();
     int num;
-    return num = rand.nextInt(30) + 1;
+    return num = rand.nextInt(25) + 1;
   }
 
   private static void printer(int num)
