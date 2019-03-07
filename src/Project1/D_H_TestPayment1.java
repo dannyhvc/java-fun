@@ -19,6 +19,7 @@ public class D_H_TestPayment1
 
     System.out.println(testArray[0].toString());
     System.out.println(testArray[1].toString());
+    testArray[3].generatePaymentAmount();
 
 
 
