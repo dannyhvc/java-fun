@@ -4,7 +4,7 @@
  * Coder: Daniel Herrera (0881570) for Section 03
  * Date: 3/6/2019 | Time: 2:01 PM
  */
-package Exception.Exception_excersize;
+package Exception.Exception_excersize.q1;
 
 public class Platypus implements Mammal, LaysEggs
 {

@@ -1,4 +1,4 @@
-package Exception.Exception_excersize;
+package Exception.Exception_excersize.q1;
 
 public interface Mammal
 {
