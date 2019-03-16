@@ -17,15 +17,16 @@ public class D_H_BagelShop extends JFrame
   private JRadioButton white, whole_wheat, cheddar, poppy, None, Reg, Decaf, Cappu;
   private JButton submit;
 
+  JFrame f1 = new JFrame("Dan's Bagel House App");
+
   D_H_BagelShop()
   {
     //boilerplate code
-    super("Dan's Bagel House App");
-    setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-    setSize(400, 150);
-    setLocationRelativeTo(null);
-    setVisible(true);
-    setLayout(new BorderLayout());
+    f1.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+    f1.setSize(400, 150);
+    f1.setLocationRelativeTo(null);
+    f1.setVisible(true);
+    f1.setLayout(new BorderLayout());
 
     //build methods
     buildTopPanel();
@@ -35,14 +36,14 @@ public class D_H_BagelShop extends JFrame
     buildBottomPanel();
 
     //ADDing to frame________
-    add(toppanel, BorderLayout.NORTH);
-    add(leftpanel, BorderLayout.WEST);
-    add(middlepanel, BorderLayout.CENTER);
-    add(rightpanel, BorderLayout.EAST);
-    add(bottompanel, BorderLayout.SOUTH);
+    f1.add(toppanel, BorderLayout.NORTH);
+    f1.add(leftpanel, BorderLayout.WEST);
+    f1.add(middlepanel, BorderLayout.CENTER);
+    f1.add(rightpanel, BorderLayout.EAST);
+    f1.add(bottompanel, BorderLayout.SOUTH);
 
     //trimming window
-    pack();
+    f1.pack();
   }
 
   public void buildTopPanel()
