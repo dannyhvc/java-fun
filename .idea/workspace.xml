@@ -2,7 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cbf05d5-4e4d-4492-8c34-418497bb8bcb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/D_H_BagelShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MY_CODE/LambdaExample/Text_Entering.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MY_CODE/LambdaExample/Text_Entering_main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MY_CODE/gui_practice_assignment/Microwave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MY_CODE/jfx_example/jfx_example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MY_CODE/threading_examples/Shark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MY_CODE/threading_examples/Tuna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MY_CODE/threading_examples/Tuna_main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Project1/D_H_TestSetters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SWING_GUIs/JMenu_example/JMenu_example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SWING_GUIs/JOption_pane_example/JOptionPane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/DaniS.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/DaniS.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Stuff/Exception/Exception_excersize/LaysEggs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Stuff/Exception/Exception_excersize/Mammal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Stuff/Exception/Exception_excersize/Platypus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Stuff/Exception/InvalidRadiusException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Stuff/Exception/InvalidRadiusException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Stuff/FileManager/fileCreation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Stuff/MY_CODE/LambdaExample/Lambdaex$Function.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Stuff/MY_CODE/LambdaExample/Lambdaex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Stuff/MY_CODE/aduffy22_lab04_q2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Stuff/MY_CODE/lab03_q2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Stuff/Project1/CommissionEmployee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Stuff/Project1/CommissionEmployee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Stuff/Project1/D_H_TestPayment1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Stuff/Project1/D_H_TestPayment1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Stuff/Project1/HourlyEmployee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Stuff/Project1/HourlyEmployee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Stuff/Project1/SalPlusCommEmployee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Stuff/Project1/SalPlusCommEmployee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Stuff/Project1/SalariedEmployee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Stuff/Project1/SalariedEmployee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FileManager/fileCreation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MY_CODE/LambdaExample/Lambdaex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Project1/CommissionEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Project1/CommissionEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Project1/D_H_TestPayment1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Project1/D_H_TestPayment1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Project1/HourlyEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Project1/HourlyEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Project1/SalPlusCommEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Project1/SalPlusCommEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Project1/SalariedEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Project1/SalariedEmployee.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,25 +48,27 @@
     <session id="-663100760">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="19" />
+          <entry key="project.closed" value="28" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.4" value="6" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.6" value="9" />
-          <entry key="project.open.time.7" value="4" />
-          <entry key="project.opened" value="21" />
+          <entry key="project.open.time.4" value="7" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.6" value="12" />
+          <entry key="project.open.time.7" value="6" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="135" />
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="JAVA" value="213" />
+          <entry key="PLAIN_TEXT" value="2" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="9130" />
+          <entry key="JAVA" value="21434" />
           <entry key="PLAIN_TEXT" value="66" />
         </counts>
       </usages-collector>
@@ -44,29 +79,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Project1/SalPlusCommEmployee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1104">
-              <caret line="55" column="3" selection-start-line="55" selection-start-column="3" selection-end-line="55" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Project1/SalariedEmployee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="984">
-              <caret line="50" column="52" selection-start-line="50" selection-start-column="52" selection-end-line="50" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Project1/D_H_TestPayment1.java">
+        <entry file="file://$PROJECT_DIR$/src/D_H_BagelShop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+            <state relative-caret-position="432">
+              <caret line="27" column="34" lean-forward="true" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#buildTopPanel#0;class#D_H_BagelShop#0" />
+                <element signature="method#buildLeftPanel#0;class#D_H_BagelShop#0" />
+                <element signature="method#buildMiddlePanel#0;class#D_H_BagelShop#0" />
+                <element signature="method#buildRightPanel#0;class#D_H_BagelShop#0" />
+                <element signature="method#buildBottomPanel#0;class#D_H_BagelShop#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SWING_GUIs/basixGUIx3_borderLayout/BorderLayoutDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="576">
+              <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -92,36 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/SWING_GUIs/basicGUIx1/JPanel_Example.java" />
-        <option value="$PROJECT_DIR$/src/SWING_GUIs/basicGUIx1/JPanel_Example1.java" />
-        <option value="$PROJECT_DIR$/src/SWING_GUIs/basicGUIx2/FlowLayoutTester.java" />
-        <option value="$PROJECT_DIR$/src/SWING_GUIs/basicGUIx2/FlowLayoutDemo.java" />
-        <option value="$PROJECT_DIR$/src/SWING_GUIs/basixGUIx3_borderLayout/BorderLayoutTester.java" />
-        <option value="$PROJECT_DIR$/src/SWING_GUIs/basicGUIx2_flowLayout/FlowLayoutDemo.java" />
-        <option value="$PROJECT_DIR$/src/SWING_GUIs/basixGUIx3_borderLayout/BorderLayoutDemo.java" />
-        <option value="$PROJECT_DIR$/src/SWING_GUIs/basicGUIx1_gridLayou/JPanel_Example1.java" />
-        <option value="$PROJECT_DIR$/src/SWING_GUIs/basicGUIx4_EventHandling/JButtonHost_tester.java" />
-        <option value="$PROJECT_DIR$/src/SWING_GUIs/basicGUIx4_EventHandling/JButtonHostListener.java" />
-        <option value="$PROJECT_DIR$/src/SWING_GUIs/basicGUIx4_EventHandlingx2/basicGUIx4_EventHandling/JButtonHostListener.java" />
-        <option value="$PROJECT_DIR$/src/SWING_GUIs/basicGUIx4_EventHandlingx2/basicGUIx4_EventHandling/JButtonInnerClassListener.java" />
-        <option value="$PROJECT_DIR$/src/SWING_GUIs/basicGUIx4_EventHandlingx2/JButtonInnerClassListener.java" />
-        <option value="$PROJECT_DIR$/src/SWING_GUIs/basicGUIx4_EventHandlingx2/JButtonInnerClassListener_main.java" />
-        <option value="$PROJECT_DIR$/src/SWING_GUIs/basicGUIx4_EventHandlingx3/AnonInnerClass_main.java" />
-        <option value="$PROJECT_DIR$/src/SWING_GUIs/basicGUIx4_EventHandlingx3/AnonInnerClass.java" />
-        <option value="$PROJECT_DIR$/src/MY_CODE/lambdaTesting/lmabdaTester.java" />
-        <option value="$PROJECT_DIR$/src/MY_CODE/lambdaTesting/LambdaTester.java" />
-        <option value="$PROJECT_DIR$/src/MY_CODE/lambdaTesting/LambdaInter.java" />
-        <option value="$PROJECT_DIR$/src/MY_CODE/lambdaTesting/Lambda_main.java" />
-        <option value="$PROJECT_DIR$/src/MY_CODE/lambdaTesting/a.java" />
-        <option value="$PROJECT_DIR$/src/Project1/SalariedEmployee.java" />
-        <option value="$PROJECT_DIR$/src/Project1/Invoice.java" />
-        <option value="$PROJECT_DIR$/src/MY_CODE/Lambdaex.java" />
-        <option value="$PROJECT_DIR$/src/MY_CODE/LambdaExample/Function.java" />
-        <option value="$PROJECT_DIR$/src/MY_CODE/LambdaExample/Lambdaex.java" />
-        <option value="$PROJECT_DIR$/src/MY_CODE/sudoku/sudoku_start.java" />
-        <option value="$PROJECT_DIR$/src/MY_CODE/LILI_Lottery.java" />
-        <option value="$PROJECT_DIR$/src/testerterstasefa.java" />
-        <option value="$PROJECT_DIR$/src/Nmurciaj_lab04_q2 .java" />
         <option value="$PROJECT_DIR$/src/Nmurciaj_lab04_q2.java" />
         <option value="$PROJECT_DIR$/src/aduffy22_lab04_q2.java" />
         <option value="$PROJECT_DIR$/src/MY_CODE/aduffy22_lab04_q2.java" />
@@ -133,7 +137,6 @@
         <option value="$PROJECT_DIR$/src/Exception/CircleOne.java" />
         <option value="$PROJECT_DIR$/src/Exception/Example1.java" />
         <option value="$PROJECT_DIR$/src/SWING_GUIs/JCheckBox_RadioButton_And_jList/JListExample2.java" />
-        <option value="$PROJECT_DIR$/src/Project1/D_H_TestPayment1.java" />
         <option value="$PROJECT_DIR$/src/Exception/Exception_excersize/Mammal.java" />
         <option value="$PROJECT_DIR$/src/Exception/Exception_excersize/LaysEggs.java" />
         <option value="$PROJECT_DIR$/src/Exception/Exception_excersize/Platypus.java" />
@@ -143,6 +146,37 @@
         <option value="$PROJECT_DIR$/src/Exception/Exception_excersize/q2/qwerty.java" />
         <option value="$PROJECT_DIR$/src/Exception/Exception_excersize/q2/main.java" />
         <option value="$PROJECT_DIR$/src/Exception/Exception_excersize/q2/EvenNumber.java" />
+        <option value="$PROJECT_DIR$/src/Project1/Employee.java" />
+        <option value="$PROJECT_DIR$/src/Project1/SalariedEmployee.java" />
+        <option value="$PROJECT_DIR$/src/Project1/CommissionEmployee.java" />
+        <option value="$PROJECT_DIR$/src/Project1/SalPlusCommEmployee.java" />
+        <option value="$PROJECT_DIR$/src/Project1/HourlyEmployee.java" />
+        <option value="$PROJECT_DIR$/src/Project1/D_H_TestSetters.java" />
+        <option value="$PROJECT_DIR$/src/SWING_GUIs/combo_box_example/ComboBoxExample1_main.java" />
+        <option value="$PROJECT_DIR$/src/SWING_GUIs/combo_box_example/ComboBoxExample1.java" />
+        <option value="$PROJECT_DIR$/src/SWING_GUIs/combo_box_example/EmptyException.java" />
+        <option value="$PROJECT_DIR$/src/SWING_GUIs/JTextAreas/JtextArea_example1_main.java" />
+        <option value="$PROJECT_DIR$/src/SWING_GUIs/JTextAreas/JtextArea_example1.java" />
+        <option value="$PROJECT_DIR$/src/SWING_GUIs/JSlider Example/JSliderExample.java" />
+        <option value="$PROJECT_DIR$/src/Project1/D_H_TestPayment1.java" />
+        <option value="$PROJECT_DIR$/src/MY_CODE/LambdaExample/Lambdaex.java" />
+        <option value="$PROJECT_DIR$/src/SWING_GUIs/JTextField, ComboBox, and Exceptions in a GUI Example/ComboBoxExample.java" />
+        <option value="$PROJECT_DIR$/src/MY_CODE/LambdaExample/Text_Entering_main.java" />
+        <option value="$PROJECT_DIR$/src/MY_CODE/LambdaExample/Text_Entering.java" />
+        <option value="$PROJECT_DIR$/src/MY_CODE/jfx_example/jfx_example.java" />
+        <option value="$PROJECT_DIR$/src/MY_CODE/threading_examples/Threadiing.java" />
+        <option value="$PROJECT_DIR$/src/MY_CODE/threading_examples/Threading_main.java" />
+        <option value="$PROJECT_DIR$/src/MY_CODE/threading_examples/asdasdasd.java" />
+        <option value="$PROJECT_DIR$/src/MY_CODE/threading_examples/Multithread.java" />
+        <option value="$PROJECT_DIR$/src/MY_CODE/threading_examples/Tuna.java" />
+        <option value="$PROJECT_DIR$/src/MY_CODE/threading_examples/Shark.java" />
+        <option value="$PROJECT_DIR$/src/MY_CODE/threading_examples/Tuna_main.java" />
+        <option value="$PROJECT_DIR$/src/SWING_GUIs/JOption_pane_example/JOptionPane.java" />
+        <option value="$PROJECT_DIR$/src/SWING_GUIs/JTextArea and JLabel example/JTextAreaExample.java" />
+        <option value="$PROJECT_DIR$/src/InClassCoding2.java" />
+        <option value="$PROJECT_DIR$/src/SWING_GUIs/JMenu_example/JMenu_example1.java" />
+        <option value="$PROJECT_DIR$/src/MY_CODE/gui_practice_assignment/Microwave.java" />
+        <option value="$PROJECT_DIR$/src/D_H_BagelShop.java" />
       </list>
     </option>
   </component>
@@ -176,20 +210,27 @@
               <item name="Java-Stuff" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java-Stuff" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Exception" type="462c0819:PsiDirectoryNode" />
+              <item name="MY_CODE" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java-Stuff" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java-Stuff" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Exception" type="462c0819:PsiDirectoryNode" />
-              <item name="Exception_excersize" type="462c0819:PsiDirectoryNode" />
+              <item name="MY_CODE" type="462c0819:PsiDirectoryNode" />
+              <item name="gui_practice_assignment" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java-Stuff" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java-Stuff" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Project1" type="462c0819:PsiDirectoryNode" />
+              <item name="SWING_GUIs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Stuff" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Stuff" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="SWING_GUIs" type="462c0819:PsiDirectoryNode" />
+              <item name="basixGUIx3_borderLayout" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -199,7 +240,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552074392301" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/javafx.graphics/javafx/application/Application.java" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552679773349" />
     <property name="create.test.in.the.same.root" value="true" />
   </component>
   <component name="RecentsManager">
@@ -223,13 +265,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.aduffy22_lab05_q3">
-    <configuration name="JListExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWING_GUIs.JCheckBox_RadioButton_And_jList.JListExample1" />
+  <component name="RunManager" selected="Application.D_H_BagelShop">
+    <configuration name="BorderLayoutTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWING_GUIs.basixGUIx3_borderLayout.BorderLayoutTester" />
       <module name="Java-Stuff" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SWING_GUIs.JCheckBox_RadioButton_And_jList.*" />
+          <option name="PATTERN" value="SWING_GUIs.basixGUIx3_borderLayout.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -237,12 +279,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JListExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWING_GUIs.JCheckBox_RadioButton_And_jList.JListExample2" />
+    <configuration name="D_H_BagelShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D_H_BagelShop" />
+      <module name="Java-Stuff" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JMenu_example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWING_GUIs.JMenu_example.JMenu_example1" />
       <module name="Java-Stuff" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SWING_GUIs.JCheckBox_RadioButton_And_jList.*" />
+          <option name="PATTERN" value="SWING_GUIs.JMenu_example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -250,12 +299,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JRadioButtonExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWING_GUIs.JCheckBox_RadioButton_And_jList.JRadioButtonExample" />
+    <configuration name="JOptionPane" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWING_GUIs.JOption_pane_example.JOptionPane" />
       <module name="Java-Stuff" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SWING_GUIs.JCheckBox_RadioButton_And_jList.*" />
+          <option name="PATTERN" value="SWING_GUIs.JOption_pane_example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -263,25 +312,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Platypus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exception.Exception_excersize.q1.Platypus" />
+    <configuration name="JPanel_Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWING_GUIs.basicGUIx1_gridLayout.JPanel_Example1" />
       <module name="Java-Stuff" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exception.Exception_excersize.q1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="aduffy22_lab05_q3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MY_CODE.aduffy22_lab05_q3" />
-      <module name="Java-Stuff" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MY_CODE.*" />
+          <option name="PATTERN" value="SWING_GUIs.basicGUIx1_gridLayout.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -290,21 +326,24 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.JRadioButtonExample" />
-      <item itemvalue="Application.JListExample1" />
-      <item itemvalue="Application.JListExample2" />
-      <item itemvalue="Application.Platypus" />
-      <item itemvalue="Application.aduffy22_lab05_q3" />
+      <item itemvalue="Application.JPanel_Example1" />
+      <item itemvalue="Application.JMenu_example1" />
+      <item itemvalue="Application.JOptionPane" />
+      <item itemvalue="Application.D_H_BagelShop" />
+      <item itemvalue="Application.BorderLayoutTester" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.aduffy22_lab05_q3" />
-        <item itemvalue="Application.Platypus" />
-        <item itemvalue="Application.JListExample2" />
-        <item itemvalue="Application.JListExample1" />
-        <item itemvalue="Application.JRadioButtonExample" />
+        <item itemvalue="Application.D_H_BagelShop" />
+        <item itemvalue="Application.BorderLayoutTester" />
+        <item itemvalue="Application.JPanel_Example1" />
+        <item itemvalue="Application.JOptionPane" />
+        <item itemvalue="Application.JMenu_example1" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES,SHOW_LAMBDA" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -343,21 +382,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1613" height="883" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
-      <window_info id="Favorites" order="3" sideWeight="0.501355" side_tool="true" weight="0.2636656" />
+      <window_info id="Favorites" order="3" sideWeight="0.46612465" side_tool="true" weight="0.22315113" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.4905149" visible="true" weight="0.13890675" />
-      <window_info id="Structure" order="6" sideWeight="0.50948507" side_tool="true" visible="true" weight="0.13890675" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.53252035" visible="true" weight="0.22829582" />
+      <window_info id="Structure" order="6" sideWeight="0.46747968" side_tool="true" weight="0.22315113" />
       <window_info anchor="bottom" id="Terminal" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.3292683" />
       <window_info anchor="bottom" id="Messages" order="2" weight="0.3292683" />
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.3292683" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.3292683" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.14634146" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.302168" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39972898" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -412,228 +452,6 @@
     <option name="LAST_COMMIT_MESSAGE" value=":D" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/SWING_GUIs/basixGUIx3_borderLayout/BorderLayoutTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SWING_GUIs/basicGUIx2_flowLayout/FlowLayoutDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="32" column="73" lean-forward="true" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SWING_GUIs/basixGUIx3_borderLayout/BorderLayoutDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="33" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SWING_GUIs/basicGUIx4_EventHandlingx2/basicGUIx4_EventHandling/JButtonHost_tester.java" />
-    <entry file="file://$PROJECT_DIR$/src/SWING_GUIs/basicGUIx4_EventHandlingx2/basicGUIx4_EventHandling/JButtonHostListener.java" />
-    <entry file="file://$PROJECT_DIR$/src/SWING_GUIs/basicGUIx4_EventHandling/JButtonHost_main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SWING_GUIs/basicGUIx4_EventHandling/JButtonHostListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SWING_GUIs/basicGUIx4_EventHandlingx2/JButtonInnerClassListener_main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SWING_GUIs/basicGUIx4_EventHandlingx2/JButtonInnerClassListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="17" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="46" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.desktop/java/awt/event/ActionListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="50" column="16" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SWING_GUIs/basicGUIx4_EventHandlingx3/AnonInnerClass_main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MY_CODE/lambdaTesting/LambdaInter.java" />
-    <entry file="file://$PROJECT_DIR$/src/MY_CODE/lambdaTesting/Lambda_main.java" />
-    <entry file="file://$PROJECT_DIR$/src/MY_CODE/lambdaTesting/a.java" />
-    <entry file="file://$PROJECT_DIR$/src/Project1/Invoice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="76" column="4" selection-start-line="76" selection-start-column="4" selection-end-line="76" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/Comparable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="136" column="24" selection-start-line="136" selection-start-column="15" selection-end-line="136" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MY_CODE/LambdaExample/Function.java" />
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/Cloneable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="696">
-          <caret line="52" column="28" lean-forward="true" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MY_CODE/LambdaExample/Lambdaex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SWING_GUIs/basicGUIx1_gridLayout/JPanel_Example1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="45" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MY_CODE/tetris/TetrisComponent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="77" column="23" lean-forward="true" selection-start-line="77" selection-start-column="23" selection-end-line="77" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MY_CODE/sudoku/sudoku_start.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Nmurciaj_lab04_q2 .java" />
-    <entry file="file://$PROJECT_DIR$/src/Nmurciaj_lab04_q2.java" />
-    <entry file="file://$PROJECT_DIR$/src/testerterstasefa.java" />
-    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MY_CODE/sudoku/gridLayout.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-168">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MY_CODE/LILI_Lottery.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2616">
-          <caret line="110" lean-forward="true" selection-start-line="110" selection-end-line="110" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SWING_GUIs/JCheckBox_RadioButton_And_jList/JCheckBocExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="27" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SWING_GUIs/basicGUIx4_EventHandlingx3/AnonInnerClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SWING_GUIs/JCheckBox_RadioButton_And_jList/JRadioButtonExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="20" column="4" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="28" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.desktop/java/awt/Container.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="1114" selection-start-line="1114" selection-end-line="1114" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SWING_GUIs/JCheckBox_RadioButton_And_jList/JListExample1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exception/Example1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exception/CircleTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SWING_GUIs/JCheckBox_RadioButton_And_jList/JListExample2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Project1/Payable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MY_CODE/aduffy22_lab04_q2.java" />
-    <entry file="file://$PROJECT_DIR$/src/MY_CODE/aduffy22_lab04_q3.java" />
-    <entry file="file://$PROJECT_DIR$/src/Exception/Exception_excersize/q1/Mammal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exception/Exception_excersize/q1/Platypus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exception/Exception_excersize/q2/adsfasdf.java" />
     <entry file="file://$PROJECT_DIR$/src/Exception/Exception_excersize/q1/LaysEggs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
@@ -666,10 +484,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
-          <folding>
-            <element signature="e#236#237#0" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -680,26 +494,301 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Project1/SalPlusCommEmployee.java">
+    <entry file="file://$PROJECT_DIR$/src/Project1/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1104">
-          <caret line="55" column="3" selection-start-line="55" selection-start-column="3" selection-end-line="55" selection-end-column="3" />
+        <state relative-caret-position="1368">
+          <caret line="75" column="3" selection-start-line="75" selection-start-column="3" selection-end-line="75" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project1/Invoice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project1/CommissionEmployee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1368">
+          <caret line="75" column="65" selection-start-line="75" selection-start-column="65" selection-end-line="75" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SWING_GUIs/combo_box_example/ComboBoxExample1_main.java" />
+    <entry file="file://$PROJECT_DIR$/src/SWING_GUIs/combo_box_example/EmptyException.java" />
+    <entry file="file://$PROJECT_DIR$/src/SWING_GUIs/combo_box_example/ComboBoxExample1.java" />
+    <entry file="file://$PROJECT_DIR$/src/SWING_GUIs/JTextAreas/JtextArea_example1_main.java" />
+    <entry file="file://$PROJECT_DIR$/src/SWING_GUIs/JTextAreas/JtextArea_example1.java" />
+    <entry file="file://$PROJECT_DIR$/src/Project1/Payable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MY_CODE/LambdaExample/Lambdaex.java" />
+    <entry file="file://$PROJECT_DIR$/src/SWING_GUIs/JTextField, ComboBox, and Exceptions in a GUI Example/EmptyException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="27" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SWING_GUIs/JSlider Example/JSliderExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1642">
+          <caret line="94" column="7" selection-start-line="94" selection-start-column="7" selection-end-line="94" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SWING_GUIs/JTextField, ComboBox, and Exceptions in a GUI Example/ComboBoxExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="647">
+          <caret line="95" column="2" selection-start-line="95" selection-start-column="2" selection-end-line="95" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.desktop/java/awt/event/ActionListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="50" column="16" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Project1/SalariedEmployee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="984">
-          <caret line="50" column="52" selection-start-line="50" selection-start-column="52" selection-end-line="50" selection-end-column="52" />
+        <state relative-caret-position="729">
+          <caret line="66" column="65" selection-start-line="66" selection-start-column="65" selection-end-line="66" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project1/HourlyEmployee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="74" column="78" selection-start-line="74" selection-start-column="78" selection-end-line="74" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project1/SalPlusCommEmployee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="51" column="53" selection-start-line="51" selection-start-column="53" selection-end-line="51" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project1/D_H_TestSetters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Project1/D_H_TestPayment1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+        <state relative-caret-position="-280">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/MY_CODE/LambdaExample/Text_Entering_main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MY_CODE/LambdaExample/Text_Entering.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="41" column="20" lean-forward="true" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/javafx.graphics/javafx/application/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="178" column="7" lean-forward="true" selection-start-line="178" selection-start-column="7" selection-end-line="178" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/javafx.controls/javafx/scene/control/ButtonBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="123" column="101" lean-forward="true" selection-start-line="123" selection-start-column="101" selection-end-line="123" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MY_CODE/jfx_example/jfx_example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="39" column="31" lean-forward="true" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="565" column="64" lean-forward="true" selection-start-line="565" selection-start-column="64" selection-end-line="565" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java-Stuff.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MY_CODE/LILI_Lottery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="93" column="32" lean-forward="true" selection-start-line="93" selection-start-column="32" selection-end-line="93" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MY_CODE/threading_examples/Threading_main.java" />
+    <entry file="file://$PROJECT_DIR$/src/MY_CODE/threading_examples/Multithread.java" />
+    <entry file="file://$PROJECT_DIR$/src/MY_CODE/threading_examples/Tuna_main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MY_CODE/threading_examples/Tuna.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MY_CODE/threading_examples/Shark.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SWING_GUIs/JOption_pane_example/JOptionPane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SWING_GUIs/JMenu_example/JMenu_example1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-576">
+          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.desktop/java/awt/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="1029" column="16" selection-start-line="1029" selection-start-column="16" selection-end-line="1029" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SWING_GUIs/JTextArea and JLabel example/JTextAreaExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SWING_GUIs/JCheckBox_RadioButton_And_jList/JListExample1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SWING_GUIs/JCheckBox_RadioButton_And_jList/JRadioButtonExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-168">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MY_CODE/gui_practice_assignment/Microwave.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-456">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SWING_GUIs/basicGUIx1_gridLayout/JPanel_Example1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D_H_BagelShop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="27" column="34" lean-forward="true" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#buildTopPanel#0;class#D_H_BagelShop#0" />
+            <element signature="method#buildLeftPanel#0;class#D_H_BagelShop#0" />
+            <element signature="method#buildMiddlePanel#0;class#D_H_BagelShop#0" />
+            <element signature="method#buildRightPanel#0;class#D_H_BagelShop#0" />
+            <element signature="method#buildBottomPanel#0;class#D_H_BagelShop#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SWING_GUIs/basixGUIx3_borderLayout/BorderLayoutDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

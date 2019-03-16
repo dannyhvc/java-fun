@@ -45,7 +45,7 @@ public class HourlyEmployee extends Employee
   @Override
   public double getEarnings()
   {
-    return 0;
+    return rate * hours;
   }
 
   /**
@@ -57,7 +57,7 @@ public class HourlyEmployee extends Employee
   @Override
   public double generatePaymentAmount()
   {
-    return 0;
+    return getEarnings();
   }
 
   /**
@@ -69,9 +69,10 @@ public class HourlyEmployee extends Employee
   @Override
   public String toString()
   {
-    return "firstName: "+ super.getFirstName() + " lastName: "+ super.getLastName() +
-        " sinNumber: "+super.getSinNumber();
+    return "LastName:: "+ "FirstName: " + "Sin: " +
+        "\n" + super.getLastName() + "\t"  + super.getFirstName() + "\t" + super.getSinNumber() +
+        "\n" + "This employee's is Hourly rate of $" + rate +
+        "\n" + "THis employee's earnings for the month are $" + getEarnings();
   }
-
 
 }//end Main class

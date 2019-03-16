@@ -12,7 +12,7 @@ public class CommissionEmployee extends Employee
   private double commRate;
   private double salesMade;
 
-  CommissionEmployee(String firstName, String lastName, String sinNumber)
+  CommissionEmployee(String firstName, String lastName, String sinNumber, double commRate, double salesMade)
   {
     super(firstName, lastName, sinNumber);
     this.commRate = commRate;
@@ -48,7 +48,7 @@ public class CommissionEmployee extends Employee
   @Override
   public double getEarnings()
   {
-    return 0;
+    return (commRate/100) * salesMade;
   }
 
   /**
@@ -60,7 +60,7 @@ public class CommissionEmployee extends Employee
   @Override
   public double generatePaymentAmount()
   {
-    return 0;
+    return getEarnings();
   }
 
   /**
@@ -72,7 +72,9 @@ public class CommissionEmployee extends Employee
   @Override
   public String toString()
   {
-    return "firstName: "+ super.getFirstName() + " lastName: "+ super.getLastName() +
-        " sinNumber: "+super.getSinNumber();
+    return "LastName:: "+ "FirstName: " + "Sin: " +
+        "\n" + super.getLastName() + "\t"  + super.getFirstName() + "\t" + super.getSinNumber() +
+        "\n" + "This employee is commission employee with a commission rate of " + commRate + "%" +
+        "\n" + "THis employee's earnings for the month are " + getEarnings() + "+ on sales of $" + salesMade;
   }
 }//end Main class

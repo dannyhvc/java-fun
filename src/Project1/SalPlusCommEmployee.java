@@ -1,4 +1,3 @@
-package Project1;
 /*
  * Project Name: SalPlusCommEmployee.java
  * Purpose:
@@ -6,16 +5,19 @@ package Project1;
  * Date: 2/14/2019 | Time: 3:18 PM
  */
 
+package Project1;
+
 public class SalPlusCommEmployee extends CommissionEmployee
 {
   //properties
   private double baseSalary;
 
   //constructor
-  SalPlusCommEmployee(String firstName, String lastName, String sinNumber, double baseSalary)
+  SalPlusCommEmployee(
+      String firstName, String lastName, String sinNumber, double baseSalary, double commRate, double salesMade)
   {
-    super(firstName, lastName, sinNumber);
-    this .baseSalary = baseSalary;
+    super(firstName, lastName, sinNumber, commRate, salesMade);
+    this.baseSalary = baseSalary;
   }
 
   //getters
@@ -36,11 +38,18 @@ public class SalPlusCommEmployee extends CommissionEmployee
    * Accepts    :
    * Returns    :
    */ //***TODO TAYLOR
-  @Override
   public double getEarnings()
   {
-    return super.getEarnings();
+    return baseSalary * super.getEarnings();
   }
+
+  /**
+   * Method Name: getEarnings()
+   * Purpose    :
+   * Accepts    :
+   * Returns    :
+   */ //***TODO TAYLOR
+  Payable generatePaymemntAmount = this::getEarnings;
 
   /**
    * Method Name: toString()
@@ -51,7 +60,10 @@ public class SalPlusCommEmployee extends CommissionEmployee
   @Override
   public String toString()
   {
-    return "firstName: "+ super.getFirstName() + " lastName: "+ super.getLastName() +
-        " sinNumber: "+super.getSinNumber();
-  }
+    return "LastName:: "+ "FirstName: " + "Sin: " +
+        "\n" + super.getLastName() + "\t"  + super.getFirstName() + "\t" + super.getSinNumber() +
+        "\n" + "This employee is commission employee with a commission rate of " + super.getCommRate() + "%" +
+        "\n" + "THis employee's earnings for the month are " + getEarnings() + "+ on sales of $" + super.getSalesMade();
+  }//end to string
+
 }//end Main class

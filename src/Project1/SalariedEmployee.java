@@ -39,7 +39,7 @@ public class SalariedEmployee extends Employee
   @Override
   public double getEarnings()
   {
-    return 0;
+    return getSalary();
   }
 
   /**
@@ -48,7 +48,11 @@ public class SalariedEmployee extends Employee
    * Accepts    :
    * Returns    :
    */ //***TODO TAYLOR
-  Payable generatePaymentAmount = () -> {return 0;};
+  @Override
+  public double generatePaymentAmount()
+  {
+    return getEarnings();
+  }
 
   /**
    * Method Name: toString()
@@ -59,7 +63,8 @@ public class SalariedEmployee extends Employee
   @Override
   public String toString()
   {
-    return "firstName: "+ super.getFirstName() + " lastName: "+ super.getLastName() +
-        " sinNumber: "+super.getSinNumber();
+    return "LastName:: "+ "FirstName: " + "Sin: " +
+        "\n" + super.getLastName() + "\t"  + super.getFirstName() + "\t" + super.getSinNumber() +
+        "\n" + "This employee is an salaried employee with a monthly salary of $" +  Salary;
   }
 }//end Main class
