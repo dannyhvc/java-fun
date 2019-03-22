@@ -103,6 +103,7 @@ public class Lili_App extends JFrame
 
     //TODO: adding to the panel
     north.add(result);
+
   }//end buildNorth()
 
   public void buildCenter() //Input PANEL
@@ -150,6 +151,7 @@ public class Lili_App extends JFrame
           if (input.getText().equals(num + ""))
           {
             result.setText("YAY!: " + num);
+            submit.setText("Try Again");
           }
           else
           {

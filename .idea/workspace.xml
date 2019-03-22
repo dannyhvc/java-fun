@@ -7,11 +7,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1cbf05d5-4e4d-4492-8c34-418497bb8bcb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Java_Stuff_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MY_CODE/Lili_App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MY_CODE/TicTakToe/Gui_builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MY_CODE/TicTakToe/TTT_main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MY_CODE/gui_practice_assignment/password_entering.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Java_Stuff_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/Java_Stuff_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/DaniS.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/DaniS.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Stuff/D_H_BagelShop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Stuff/D_H_BagelShop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/D_H_BagelShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D_H_BagelShop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Java_Stuff_jar/Java-Stuff.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Java_Stuff_jar/Java-Stuff.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Stuff/MY_CODE/Lili_App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Stuff/MY_CODE/Lili_App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Stuff/MY_CODE/gui_practice_assignment/Microwave.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Stuff/MY_CODE/sudoku/gridLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Stuff/MY_CODE/sudoku/sudoku_start.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exception/InvalidRadiusException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exception/InvalidRadiusException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MY_CODE/Lili_App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MY_CODE/Lili_App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MY_CODE/gui_practice_assignment/Microwave.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MY_CODE/sudoku/gridLayout.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MY_CODE/sudoku/sudoku_start.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,32 +31,44 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Java_Stuff$Lili_App.ic" NAME="Lili_App Coverage Results" MODIFIED="1552943095515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>MY_CODE.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myFlattenPackages" value="true" />
+    <option name="myAutoScrollFromSource" value="true" />
+    <option name="myElementSize" value="214" />
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-663100760">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="30" />
+          <entry key="project.closed" value="36" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.4" value="7" />
-          <entry key="project.open.time.5" value="4" />
-          <entry key="project.open.time.6" value="13" />
-          <entry key="project.open.time.7" value="6" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="32" />
+          <entry key="project.open.time.4" value="8" />
+          <entry key="project.open.time.5" value="5" />
+          <entry key="project.open.time.6" value="14" />
+          <entry key="project.open.time.7" value="8" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="38" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="CSS" value="1" />
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="225" />
-          <entry key="Manifest" value="1" />
-          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="JAVA" value="255" />
+          <entry key="Manifest" value="4" />
+          <entry key="PLAIN_TEXT" value="4" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="22261" />
+          <entry key="CSS" value="11" />
+          <entry key="JAVA" value="27341" />
           <entry key="PLAIN_TEXT" value="66" />
         </counts>
       </usages-collector>
@@ -57,19 +80,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MY_CODE/Lili_App.java">
+        <entry file="file://$PROJECT_DIR$/src/JFX_GUIS/Radiobutton Example/CarPaymentCalculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1008">
-              <caret line="137" lean-forward="true" selection-start-line="137" selection-end-line="137" />
+            <state relative-caret-position="384">
+              <caret line="76" column="33" selection-start-line="76" selection-start-column="33" selection-end-line="76" selection-end-column="33" />
               <folding>
-                <element signature="method#Lili_App#0;class#Lili_App#0" />
-                <element signature="method#boilerPlateF1#0;class#LiLi_Lottery_app#0" />
-                <element signature="method#boilerPlateF2#0;class#LiLi_Lottery_app#0" />
-                <element signature="method#buildF1Panel#0;class#LiLi_Lottery_app#0" />
-                <element signature="method#buildNorth#0;class#LiLi_Lottery_app#0" />
-                <element signature="method#buildCenter#0;class#LiLi_Lottery_app#0" />
-                <element signature="method#buildSouth#0;class#LiLi_Lottery_app#0" />
-                <element signature="method#getinput#0;class#Lili_App#0" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -96,18 +112,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/SWING_GUIs/JCheckBox_RadioButton_And_jList/JRadioButtonExample.java" />
-        <option value="$PROJECT_DIR$/src/SWING_GUIs/JCheckBox_RadioButton_And_jList/JListExample1.java" />
-        <option value="$PROJECT_DIR$/src/Exception/CircleTester.java" />
-        <option value="$PROJECT_DIR$/src/Exception/CircleOne.java" />
-        <option value="$PROJECT_DIR$/src/Exception/Example1.java" />
-        <option value="$PROJECT_DIR$/src/SWING_GUIs/JCheckBox_RadioButton_And_jList/JListExample2.java" />
-        <option value="$PROJECT_DIR$/src/Exception/Exception_excersize/Mammal.java" />
-        <option value="$PROJECT_DIR$/src/Exception/Exception_excersize/LaysEggs.java" />
-        <option value="$PROJECT_DIR$/src/Exception/Exception_excersize/Platypus.java" />
-        <option value="$PROJECT_DIR$/src/MY_CODE/aduffy22_lab04_q3.java" />
         <option value="$PROJECT_DIR$/src/Exception/Exception_excersize/q2/adsfasdf.java" />
-        <option value="$PROJECT_DIR$/src/Exception/InvalidRadiusException.java" />
         <option value="$PROJECT_DIR$/src/Exception/Exception_excersize/q2/qwerty.java" />
         <option value="$PROJECT_DIR$/src/Exception/Exception_excersize/q2/main.java" />
         <option value="$PROJECT_DIR$/src/Exception/Exception_excersize/q2/EvenNumber.java" />
@@ -146,7 +151,18 @@
         <option value="$PROJECT_DIR$/src/MY_CODE/Lili_Lottery_App/lotto_Title_page.java" />
         <option value="$PROJECT_DIR$/src/MY_CODE/Lili_Lottery_App/LiliLottery_main.java" />
         <option value="$PROJECT_DIR$/src/MY_CODE/Lili_Lottery_App/LiLi_Lottery_app.java" />
+        <option value="$PROJECT_DIR$/src/Exception/InvalidRadiusException.java" />
+        <option value="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
         <option value="$PROJECT_DIR$/src/MY_CODE/Lili_App.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" />
+        <option value="$PROJECT_DIR$/src/MY_CODE/gui_practice_assignment/feet2Meters_converter.java" />
+        <option value="$PROJECT_DIR$/src/MY_CODE/gui_practice_assignment/password_entering.java" />
+        <option value="$PROJECT_DIR$/src/MY_CODE/TicTakToe/gui_builder.java" />
+        <option value="$PROJECT_DIR$/src/MY_CODE/TicTakToe/TTT_main.java" />
+        <option value="$PROJECT_DIR$/src/MY_CODE/TicTakToe/TTT_function.java" />
+        <option value="$PROJECT_DIR$/src/MY_CODE/TicTakToe/Gui_builder.java" />
+        <option value="$PROJECT_DIR$/src/JFX_GUIS/Radiobutton Example/CarPaymentCalculator.java" />
+        <option value="$PROJECT_DIR$/src/JFX_GUIS/Radiobutton Example/test.css" />
       </list>
     </option>
   </component>
@@ -163,8 +179,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -177,27 +191,48 @@
               <item name="Java-Stuff" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Java-Stuff" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Stuff" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JFX_GUIS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Stuff" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Stuff" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JFX_GUIS" type="462c0819:PsiDirectoryNode" />
+              <item name="Radiobutton Example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Stuff" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/javafx.graphics/javafx/application/Application.java" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552775764326" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553280212320" />
     <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/MY_CODE/Lili_App.java" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\#GITHUB\Java-Stuff" />
-      <recent name="C:\#GITHUB\Java-Stuff\src" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\#GITHUB\Java-Stuff\src\SWING_GUIs\basicGUIx4_EventHandlingx2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\#GITHUB\Java-Stuff\src\JFX_GUIS" />
+      <recent name="C:\#GITHUB\Java-Stuff" />
+      <recent name="C:\#GITHUB\Java-Stuff\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -212,13 +247,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Lili_App">
-    <configuration name="BorderLayoutTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWING_GUIs.basixGUIx3_borderLayout.BorderLayoutTester" />
+  <component name="RunManager" selected="Application.CarPaymentCalculator (1)">
+    <configuration name="CarPaymentCalculator (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RadiobuttonExample.CarPaymentCalculator" />
       <module name="Java-Stuff" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SWING_GUIs.basixGUIx3_borderLayout.*" />
+          <option name="PATTERN" value="RadiobuttonExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -226,35 +261,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="D_H_BagelShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="D_H_BagelShop" />
+    <configuration name="JavaFX_My_Second_Show" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaFX_My_Second_Show" />
       <module name="Java-Stuff" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JOptionPane" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWING_GUIs.JOption_pane_example.JOptionPane" />
-      <module name="Java-Stuff" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SWING_GUIs.JOption_pane_example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JPanel_Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWING_GUIs.basicGUIx1_gridLayout.JPanel_Example1" />
-      <module name="Java-Stuff" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SWING_GUIs.basicGUIx1_gridLayout.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -268,12 +277,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lili_App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MY_CODE.Lili_App" />
+    <configuration name="TTT_main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MY_CODE.TicTakToe.TTT_main" />
       <module name="Java-Stuff" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MY_CODE.*" />
+          <option name="PATTERN" value="MY_CODE.TicTakToe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="feet2Meters_converter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MY_CODE.gui_practice_assignment.feet2Meters_converter" />
+      <module name="Java-Stuff" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MY_CODE.gui_practice_assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="password_entering" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MY_CODE.gui_practice_assignment.password_entering" />
+      <module name="Java-Stuff" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MY_CODE.gui_practice_assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -283,19 +318,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.LiLi_Lottery_app" />
-      <item itemvalue="Application.JPanel_Example1" />
-      <item itemvalue="Application.JOptionPane" />
-      <item itemvalue="Application.D_H_BagelShop" />
-      <item itemvalue="Application.BorderLayoutTester" />
-      <item itemvalue="Application.Lili_App" />
+      <item itemvalue="Application.JavaFX_My_Second_Show" />
+      <item itemvalue="Application.feet2Meters_converter" />
+      <item itemvalue="Application.CarPaymentCalculator (1)" />
+      <item itemvalue="Application.password_entering" />
+      <item itemvalue="Application.TTT_main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lili_App" />
-        <item itemvalue="Application.D_H_BagelShop" />
-        <item itemvalue="Application.BorderLayoutTester" />
-        <item itemvalue="Application.JPanel_Example1" />
-        <item itemvalue="Application.JOptionPane" />
+        <item itemvalue="Application.CarPaymentCalculator (1)" />
+        <item itemvalue="Application.TTT_main" />
+        <item itemvalue="Application.password_entering" />
+        <item itemvalue="Application.feet2Meters_converter" />
+        <item itemvalue="Application.JavaFX_My_Second_Show" />
       </list>
     </recent_temporary>
   </component>
@@ -346,7 +381,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.4701897" side_tool="true" weight="0.2983923" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.5298103" visible="true" weight="0.2983923" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.5298103" visible="true" weight="0.23151125" />
       <window_info id="Structure" order="6" sideWeight="0.4701897" side_tool="true" weight="0.2983923" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.3292683" />
@@ -368,36 +403,8 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32990354" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Designer" order="0" />
-      <window_info id="UI Designer" order="1" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Favorites" order="3" sideWeight="0.46612465" side_tool="true" weight="0.22315113" />
-      <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.53252035" visible="true" weight="0.2983923" />
-      <window_info id="Structure" order="6" sideWeight="0.46747968" side_tool="true" weight="0.22315113" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.3292683" />
-      <window_info anchor="bottom" id="Messages" order="2" weight="0.3292683" />
-      <window_info anchor="bottom" id="Version Control" order="3" weight="0.3292683" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" weight="0.3292683" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.302168" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.39972898" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="bottom" id="Thumbnails" order="11" weight="0.3292683" />
-      <window_info anchor="right" id="Capture Analysis" order="0" />
-      <window_info anchor="right" id="Theme Preview" order="1" />
-      <window_info anchor="right" id="Palette&#9;" order="2" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -410,110 +417,6 @@
     <option name="LAST_COMMIT_MESSAGE" value=":D" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/SWING_GUIs/combo_box_example/ComboBoxExample1_main.java" />
-    <entry file="file://$PROJECT_DIR$/src/SWING_GUIs/combo_box_example/EmptyException.java" />
-    <entry file="file://$PROJECT_DIR$/src/SWING_GUIs/combo_box_example/ComboBoxExample1.java" />
-    <entry file="file://$PROJECT_DIR$/src/SWING_GUIs/JTextAreas/JtextArea_example1_main.java" />
-    <entry file="file://$PROJECT_DIR$/src/SWING_GUIs/JTextAreas/JtextArea_example1.java" />
-    <entry file="file://$PROJECT_DIR$/src/Project1/Payable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MY_CODE/LambdaExample/Lambdaex.java" />
-    <entry file="file://$PROJECT_DIR$/src/SWING_GUIs/JTextField, ComboBox, and Exceptions in a GUI Example/EmptyException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="27" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SWING_GUIs/JSlider Example/JSliderExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1642">
-          <caret line="94" column="7" selection-start-line="94" selection-start-column="7" selection-end-line="94" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SWING_GUIs/JTextField, ComboBox, and Exceptions in a GUI Example/ComboBoxExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="647">
-          <caret line="95" column="2" selection-start-line="95" selection-start-column="2" selection-end-line="95" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.desktop/java/awt/event/ActionListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="50" column="16" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Project1/SalariedEmployee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="729">
-          <caret line="66" column="65" selection-start-line="66" selection-start-column="65" selection-end-line="66" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Project1/HourlyEmployee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="74" column="78" selection-start-line="74" selection-start-column="78" selection-end-line="74" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Project1/SalPlusCommEmployee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="51" column="53" selection-start-line="51" selection-start-column="53" selection-end-line="51" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Project1/D_H_TestSetters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Project1/D_H_TestPayment1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-280">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MY_CODE/LambdaExample/Text_Entering_main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MY_CODE/LambdaExample/Text_Entering.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="41" column="20" lean-forward="true" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/javafx.graphics/javafx/application/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="178" column="7" lean-forward="true" selection-start-line="178" selection-start-column="7" selection-end-line="178" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/javafx.controls/javafx/scene/control/ButtonBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="123" column="101" lean-forward="true" selection-start-line="123" selection-start-column="101" selection-end-line="123" selection-end-column="101" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MY_CODE/jfx_example/jfx_example.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
@@ -564,9 +467,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -612,16 +512,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MY_CODE/gui_practice_assignment/Microwave.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-456">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SWING_GUIs/basicGUIx1_gridLayout/JPanel_Example1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
@@ -636,52 +526,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MY_CODE/Lili_Lottery_App/lotto_Title_page.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#703#704#0" expanded="true" />
-            <element signature="e#725#726#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MY_CODE/Lili_Lottery_App/LiliLottery_main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MY_CODE/Lili_Lottery_App/LiLi_Lottery_app.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1152">
-          <caret line="53" column="30" lean-forward="true" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MY_CODE/Lili_Lottery_App/lotto_Title_page.java" />
+    <entry file="file://$PROJECT_DIR$/src/MY_CODE/Lili_Lottery_App/LiliLottery_main.java" />
+    <entry file="file://$PROJECT_DIR$/src/MY_CODE/Lili_Lottery_App/LiLi_Lottery_app.java" />
     <entry file="file://$PROJECT_DIR$/src/SWING_GUIs/basicGUIx4_EventHandling/JButtonHostListener.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-528">
           <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/D_H_BagelShop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="38" column="40" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -692,48 +543,166 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://C:/$JavaPrograms/Lili_Lottery/src/LiLi_Lottery_app.java" />
+    <entry file="file://$PROJECT_DIR$/src/MY_CODE/LiLi_Lottery_app.java" />
+    <entry file="file://$PROJECT_DIR$/src/D_H_BagelShop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="35" column="23" lean-forward="true" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exception/InvalidRadiusException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exception/CircleOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exception/CircleTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="40" lean-forward="true" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/MY_CODE/LILI_Lottery.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="131" lean-forward="true" selection-start-line="131" selection-end-line="131" />
-          <folding>
-            <element signature="method#smallPrize#0;class#LILI_Lottery#0" />
-            <element signature="method#bigPrize#0;class#LILI_Lottery#0" />
-            <element signature="method#numberWinner#0;class#LILI_Lottery#0" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/$JavaPrograms/Lili_Lottery/src/LiLi_Lottery_app.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1152">
-          <caret line="56" column="24" lean-forward="true" selection-start-line="56" selection-start-column="24" selection-end-line="56" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#4578#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MY_CODE/LiLi_Lottery_app.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="17" column="24" lean-forward="true" selection-end-line="172" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" />
     <entry file="file://$PROJECT_DIR$/src/MY_CODE/Lili_App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1008">
-          <caret line="137" lean-forward="true" selection-start-line="137" selection-end-line="137" />
+        <state relative-caret-position="264">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
           <folding>
             <element signature="method#Lili_App#0;class#Lili_App#0" />
-            <element signature="method#boilerPlateF1#0;class#LiLi_Lottery_app#0" />
-            <element signature="method#boilerPlateF2#0;class#LiLi_Lottery_app#0" />
-            <element signature="method#buildF1Panel#0;class#LiLi_Lottery_app#0" />
-            <element signature="method#buildNorth#0;class#LiLi_Lottery_app#0" />
-            <element signature="method#buildCenter#0;class#LiLi_Lottery_app#0" />
-            <element signature="method#buildSouth#0;class#LiLi_Lottery_app#0" />
-            <element signature="method#getinput#0;class#Lili_App#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MY_CODE/gui_practice_assignment/Microwave.java" />
+    <entry file="file://$PROJECT_DIR$/src/JFX_GUIS/JFX_Examples/JavaFX_My_First_Show.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="31" column="46" lean-forward="true" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JFX_GUIS/JFX_Examples/JavaFX_My_Second_Show.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="40" column="38" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JFX_GUIS/MouseListeners.flv">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="96">
+          <caret line="172" column="39" selection-start-line="172" selection-start-column="39" selection-end-line="172" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/javafx.graphics/javafx/scene/layout/GridPane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="291" column="7" lean-forward="true" selection-start-line="291" selection-start-column="7" selection-end-line="291" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/javafx.base/javafx/collections/ObservableList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-568">
+          <caret line="45" column="32" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/javafx.graphics/javafx/scene/Scene.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="237" column="5" lean-forward="true" selection-start-line="237" selection-start-column="5" selection-end-line="237" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MY_CODE/gui_practice_assignment/feet2Meters_converter.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/javafx.controls/javafx/scene/control/PasswordField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="53" column="33" lean-forward="true" selection-start-line="53" selection-start-column="33" selection-end-line="53" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MY_CODE/TicTakToe/TTT_function.java" />
+    <entry file="file://$PROJECT_DIR$/src/MY_CODE/TicTakToe/TTT_main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+          <folding>
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MY_CODE/TicTakToe/Gui_builder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MY_CODE/gui_practice_assignment/password_entering.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="52" column="17" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#buildGird#0;class#password_entering#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JFX_GUIS/JFX_Examples/ActionListenerExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="784">
+          <caret line="48" column="32" lean-forward="true" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/javafx.graphics/javafx/application/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8119">
+          <caret line="171" column="22" selection-start-line="171" selection-start-column="22" selection-end-line="171" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JFX_GUIS/Radiobutton Example/test.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JFX_GUIS/Radiobutton Example/CarPaymentCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="76" column="33" selection-start-line="76" selection-start-column="33" selection-end-line="76" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -743,7 +712,12 @@
     <states>
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
-          <artifact-editor />
+          <artifact-editor>
+            <show-content>
+              <type id="artifact" />
+              <type id="library" />
+            </show-content>
+          </artifact-editor>
           <last-edited>Java-Stuff:jar</last-edited>
           <splitter-proportions>
             <option name="proportions">
