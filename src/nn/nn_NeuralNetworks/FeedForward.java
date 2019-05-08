@@ -4,8 +4,11 @@
  * Coder: Daniel Herrera (0881570) for Section 03
  * Date: 5/7/2019 | Time: 1:37 AM
  */
-package neuralNetwork;
+package nn.nn_NeuralNetworks;
 
+import nn.nn_Handling.InvalidMatrixException;
+import nn.nn_math.Activation;
+import nn.nn_synthesis.Connections;
 import java.util.*;
 
 public class FeedForward

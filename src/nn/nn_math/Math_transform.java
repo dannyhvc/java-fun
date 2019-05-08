@@ -4,7 +4,7 @@
  * Coder: Daniel Herrera (0881570) for Section 03
  * Date: 5/7/2019 | Time: 8:18 PM
  */
-package neuralNetwork;
+package nn.nn_math;
 
 import java.util.Vector;
 

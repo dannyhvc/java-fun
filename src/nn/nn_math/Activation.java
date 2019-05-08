@@ -1,4 +1,4 @@
-package neuralNetwork;
+package nn.nn_math;
 
 public interface Activation
 {

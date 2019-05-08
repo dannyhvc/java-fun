@@ -4,9 +4,7 @@
  * Coder: Daniel Herrera (0881570) for Section 03
  * Date: 5/7/2019 | Time: 3:51 PM
  */
-package neuralNetwork;
-
-import java.util.Vector;
+package nn.nn_synthesis;
 
 public class Connections
 {

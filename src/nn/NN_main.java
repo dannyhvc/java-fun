@@ -4,7 +4,9 @@
  * Coder: Daniel Herrera (0881570) for Section 03
  * Date: 5/7/2019 | Time: 1:31 AM
  */
-package neuralNetwork;
+package nn;
+
+import nn.nn_NeuralNetworks.FeedForward;
 
 public class NN_main
 {
