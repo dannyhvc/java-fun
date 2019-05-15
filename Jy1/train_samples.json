@@ -1,0 +1,26 @@
+[
+  {
+    "training": {
+      "e-outputs": "1",
+      "e-inputs": "1 0"
+    }
+  },
+  {
+    "training": {
+      "e-outputs": "1",
+      "e-inputs": "0 1"
+    }
+  },
+  {
+    "training": {
+      "e-outputs": "0",
+      "e-inputs": "1 1"
+    }
+  },
+  {
+    "training": {
+      "e-outputs": "0",
+      "e-inputs": "0 0"
+    }
+  }
+]
