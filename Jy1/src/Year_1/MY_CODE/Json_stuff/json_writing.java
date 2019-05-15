@@ -30,6 +30,7 @@ public class json_writing
       //outputs
       System.out.print("Outputs: ");String outputs = scanner1.nextLine();
 
+
       //resetting the JSONObject
       employeeDetails = new JSONObject();
 
