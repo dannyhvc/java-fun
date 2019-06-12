@@ -8,22 +8,26 @@ package Year_1.MY_CODE.threading_examples;
 
 public class Tuna_main
 {
-  public static void main(String[] args)
-  {
-    //making objects
-    Tuna fish1 = new Tuna("t_1", 500);
-    Tuna fish2 = new Tuna("t_2", 1000);
-    Shark tiger1 = new Shark("s_1", 500);
+    public static void main(String[] args)
+    {
+        //making objects
+        Tuna fish1 = new Tuna("t_1", 500);
+        Tuna fish2 = new Tuna("t_2", 1000);
+        Shark tiger1 = new Shark("s_1", 500);
 
-    //making threads
-    Thread t1 = new Thread(fish1);
-    t1 = new Thread(fish2);
-    Thread t2 = new Thread(tiger1);
+        //making threads
+        Thread t1 = new Thread(fish1);
+        t1 = new Thread(fish2);
+        Thread t2 = new Thread(tiger1);
 
-    //starting threads
-    t1.start();
-    t2.start();
+        //starting threads
+        t1.start();
+        t2.start();
 
-  }//end main
+        Runnable r = () -> System.out.println(Math.PI);
+        Thread t = new Thread(r);
+        t.start();
+
+    }//end main
 
 }//end Main class
